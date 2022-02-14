@@ -6,6 +6,6 @@ export function canTheyDrive(age) {
     else if (age < 18) {
         return "Cannot drive"
     } 
-    
+
     else return "Error"
 }
